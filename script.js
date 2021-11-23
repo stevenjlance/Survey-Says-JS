@@ -4,7 +4,6 @@
 console.log(people[0])
 
 
-
 // 2. Print out Brenton's second favorite band. You should see "The Format"
 console.log(people[7]['Favorite Bands'][1])
 
