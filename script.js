@@ -1,4 +1,4 @@
-//ll the survey responses are stored in a list called "people". (Remember to use dot or [ ] syntax!)
+//All the survey responses are stored in a list called "people". (Remember to use dot or [ ] syntax!)
 
 // 1. Print out the name of the first person who responded to the survey. You should see informatio nabout Daniel
 console.log(people[0])
